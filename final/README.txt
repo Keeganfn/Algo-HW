@@ -17,7 +17,7 @@ Controls/Rules:
 
     - Enter -1 to reset the board to its original state
 
-    - Enter -2 to solve the board if possible and end the game, this usually will take only a couple seconds but it could take up to 2 minutes to solve
+    - Enter -2 to auto solve the board if possible and end the game, this usually will take only a couple seconds but it could take up to 2 minutes to solve
         - Only takes into account the original board, none of the user answers
         - Will also let you know if the board is valid but unsolvable
 
